@@ -1,2 +1,2 @@
-# Instagram-React
-Copy of Instagram via React
+To run project: 
+$ npm run start
